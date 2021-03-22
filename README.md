@@ -5,10 +5,13 @@ Twitter: @Hades_Tourist
 Education:
 
 HNC Software Development - 2021
+
 HND Software Development - Studying
 
 Masters Degree in Immunology (Merit) - 2016
+
 Honours degree in Immunology and Microbiology - 2015
+
 HND in Biomedical Science - 2013
 
 Work:
