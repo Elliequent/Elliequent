@@ -17,6 +17,7 @@ HND in Biomedical Science - 2013
 Work:
 
 Former Managing Director of World Tree Agriculture
+
 NHS Test and Protect Practitioner
 
 Languages: C# and Java taught at HNC / HND. Python, PHP, Dart and JavaScript self-taught.
