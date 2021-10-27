@@ -4,9 +4,11 @@ Twitter: @Hades_Tourist
 
 Education:
 
+Bsc Computing - Currently studying
+
 HNC Software Development - 2021
 
-HND Software Development - Studying
+HND Software Development - 2021
 
 Masters Degree in Immunology (Merit) - 2016
 
