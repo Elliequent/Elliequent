@@ -1,6 +1,4 @@
-Ian Fraser
-
-Twitter: @Hades_Tourist
+Elaine Fraser
 
 Education:
 
