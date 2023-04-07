@@ -22,7 +22,7 @@ Former Managing Director of World Tree Agriculture
 
 NHS Test and Protect Practitioner
 
-Languages: C# and Java taught at HNC / HND. Python, PHP, Dart and JavaScript self-taught. C, C++, Pascal / Delphi, Matlab and Simulink - BAE Systems.
+Languages: C# and Java - HNC / HND. Python, PHP, Dart and JavaScript - self-taught. C, C++, Pascal / Delphi, Matlab and Simulink - BAE Systems.
 
 Skills and experience: Web development, Chrome extensions, ethical hacking, Linux, UI and UX design, Testing, simulation development and systems engineering.
 
