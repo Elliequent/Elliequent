@@ -2,6 +2,8 @@ Elaine Fraser
 
 Education:
 
+BAE Systems Internship - 2022 to 2023
+
 Bsc Computing - Currently studying
 
 HNC Software Development - 2021
