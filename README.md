@@ -6,15 +6,17 @@ BAE Systems Internship - 2022 to 2023
 
 Bsc Computing - Currently studying
 
-HNC Software Development - 2021
+HNC Software Development (A) - 2019
 
-HND Software Development - 2021
+HND Software Development (A) - 2020
 
 Masters Degree in Immunology (Merit) - 2016
 
-Honours degree in Immunology and Microbiology - 2015
+Honours degree in Immunology and Microbiology (2:1) - 2015
 
-HND in Biomedical Science - 2013
+HND in Biomedical Science (A) - 2013
+
+HNC in Biomedical Science (A) - 2012
 
 Work:
 
